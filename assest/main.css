@@ -1,0 +1,29 @@
+body{background-color: #020202;
+	background-position:center top;
+    background-repeat:no-repeat;
+}
+
+h1{font-family: 'Candal', sans-serif; 
+	text-align: center;
+	 font-size: 70px; 
+	 color: #FF0000;
+	text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black}
+
+#holdquestions {margin-top: 30px;}
+
+form {text-align: center; 
+	color: #F5F6CE; 
+	font-size: 30px;
+	font-family: 'Candal', sans-serif;
+	text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+      margin-top: 15%;}
+
+.red {color: #DF0101; font-size: 45px;}
+
+.purple {color: #8904B1; font-size: 45px;}
+
+#go{margin-top: 50px; 
+	margin-bottom:50px;
+	 font-family: 'Candal', sans-serif; font-size: 25px;}
