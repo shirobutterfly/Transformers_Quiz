@@ -27,3 +27,14 @@ form {text-align: center;
 #go{margin-top: 50px; 
 	margin-bottom:50px;
 	 font-family: 'Candal', sans-serif; font-size: 25px;}
+
+#results{text-align: center; 
+	color: #F5F6CE; 
+	font-size: 50px;
+	font-family: 'Candal', sans-serif;
+	text-shadow: -1px 0 black, 0 1px black,
+      1px 0 black, 0 -1px black;
+      margin-top: 15%;}
+
+ a:visited {color: #DF0101;}
+ a {color: #DF0101;}
