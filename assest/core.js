@@ -1,3 +1,5 @@
+console.log("hello")
+
 var score = 0; //Sets score to 0
 var total = 10; // Total number of questions
 var point = 1; //Points per right answer
